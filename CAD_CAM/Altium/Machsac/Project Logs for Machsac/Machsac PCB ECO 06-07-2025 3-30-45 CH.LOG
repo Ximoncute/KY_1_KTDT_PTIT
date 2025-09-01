@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetB?_2 Pin=C?-2
+Removed Pin From Net: NetName=NetB?_2 Pin=D?-1
+Removed Pin From Net: NetName=NetB?_2 Pin=Q?-1
+Removed Pin From Net: NetName=NetB?_2 Pin=T?-5
+Added Pin To Net: NetName=A1 Pin=C?-2
+Added Pin To Net: NetName=A1 Pin=D?-1
+Added Pin To Net: NetName=A1 Pin=Q?-1
+Added Pin To Net: NetName=A1 Pin=T?-5
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Machsac Member=Component C? Cap
+Added Member To Class: ClassName=Machsac Member=Component C?
+Added Member To Class: ClassName=Machsac Member=Component C? Cap
+Added Member To Class: ClassName=Machsac Member=Component C? Cap
+Added Member To Class: ClassName=Machsac Member=Component C? Cap Pol1
+Added Member To Class: ClassName=Machsac Member=Component C? Cap Pol1
+Added Member To Class: ClassName=Machsac Member=Component C?
+Added Member To Class: ClassName=Machsac Member=Component C?
+Added Member To Class: ClassName=Machsac Member=Component C? Cap
+Added Member To Class: ClassName=Machsac Member=Component D? Diode
+Added Member To Class: ClassName=Machsac Member=Component D? Diode
+Added Member To Class: ClassName=Machsac Member=Component D? Diode
+Added Member To Class: ClassName=Machsac Member=Component D? DIODE
+Added Member To Class: ClassName=Machsac Member=Component D? Diode
+Added Member To Class: ClassName=Machsac Member=Component D? Diode
+Added Member To Class: ClassName=Machsac Member=Component D? Diode
+Added Member To Class: ClassName=Machsac Member=Component D? Diode
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1
+Added Member To Class: ClassName=Machsac Member=Component R? Res1

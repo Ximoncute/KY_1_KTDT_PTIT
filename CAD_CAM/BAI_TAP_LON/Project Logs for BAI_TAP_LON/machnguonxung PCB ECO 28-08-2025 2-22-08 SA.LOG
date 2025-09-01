@@ -1,0 +1,177 @@
+Added Component: Designator=C46(CAP10UF)
+Added Component: Designator=C47(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C52(CAP10UF)
+Added Component: Designator=C54(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C55(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C67(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C70(CAP10UF)
+Added Component: Designator=D18(diode)
+Added Component: Designator=D19(diode)
+Added Component: Designator=D22(diode)
+Added Component: Designator=D24(BRIDGE_DAN)
+Added Component: Designator=D25(diode)
+Added Component: Designator=DZ2(D1A)
+Added Component: Designator=F4(Fuse)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=HD11(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD14(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=IC13(qto-92)
+Add component (AddParameter): Name = "Value"; Value = "TL431"; VariantName = "[No Variations]"
+Added Component: Designator=Q28(QTO-220)
+Add component (AddParameter): Name = "Value"; Value = "TIP41"; VariantName = "[No Variations]"
+Added Component: Designator=R68(R1/6W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R69(R1/6W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R75(R1/6W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R82(R1/6W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R88(R1/6W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R89(R1/6W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R96(R1/6W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R115(R1/6W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R117(R1/6W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=U13(BAX_EE32)
+Add component (AddParameter): Name = "Value"; Value = "BA xung"; VariantName = "[No Variations]"
+Added Component: Designator=U14(OPTO_U)
+Add component (AddParameter): Name = "Value"; Value = "TLP5211"; VariantName = "[No Variations]"
+Added Component: Designator=VR10(VR)
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=C52-1
+Added Pin To Net: NetName=12V Pin=C54-2
+Added Pin To Net: NetName=12V Pin=D18-2
+Added Pin To Net: NetName=12V Pin=D22-2
+Added Pin To Net: NetName=12V Pin=HD11-2
+Added Pin To Net: NetName=12V Pin=R82-2
+Added Pin To Net: NetName=12V Pin=R88-2
+Added Net: Name=12V
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C70-2
+Added Pin To Net: NetName=GND Pin=D24-4
+Added Pin To Net: NetName=GND Pin=HD11-1
+Added Pin To Net: NetName=GND Pin=IC13-2
+Added Pin To Net: NetName=GND Pin=Q28-3
+Added Pin To Net: NetName=GND Pin=R115-1
+Added Pin To Net: NetName=GND Pin=R117-1
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=GND Pin=U13-10
+Added Pin To Net: NetName=GND Pin=U14-E
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC46_1 Pin=C46-1
+Added Pin To Net: NetName=NetC46_1 Pin=C47-2
+Added Pin To Net: NetName=NetC46_1 Pin=D24-1
+Added Pin To Net: NetName=NetC46_1 Pin=R68-2
+Added Pin To Net: NetName=NetC46_1 Pin=R69-2
+Added Pin To Net: NetName=NetC46_1 Pin=U13-12
+Added Net: Name=NetC46_1
+Added Pin To Net: NetName=NetC47_1 Pin=C47-1
+Added Pin To Net: NetName=NetC47_1 Pin=D19-2
+Added Pin To Net: NetName=NetC47_1 Pin=R69-1
+Added Net: Name=NetC47_1
+Added Pin To Net: NetName=NetC55_1 Pin=C55-1
+Added Pin To Net: NetName=NetC55_1 Pin=D25-2
+Added Pin To Net: NetName=NetC55_1 Pin=U13-9
+Added Net: Name=NetC55_1
+Added Pin To Net: NetName=NetC55_2 Pin=C55-2
+Added Pin To Net: NetName=NetC55_2 Pin=R68-1
+Added Pin To Net: NetName=NetC55_2 Pin=R75-2
+Added Net: Name=NetC55_2
+Added Pin To Net: NetName=NetC67_1 Pin=C67-1
+Added Pin To Net: NetName=NetC67_1 Pin=IC13-1
+Added Pin To Net: NetName=NetC67_1 Pin=VR10-2
+Added Net: Name=NetC67_1
+Added Pin To Net: NetName=NetC67_2 Pin=C67-2
+Added Pin To Net: NetName=NetC67_2 Pin=R96-1
+Added Net: Name=NetC67_2
+Added Pin To Net: NetName=NetC70_1 Pin=C70-1
+Added Pin To Net: NetName=NetC70_1 Pin=D25-1
+Added Pin To Net: NetName=NetC70_1 Pin=DZ2-1
+Added Pin To Net: NetName=NetC70_1 Pin=R115-2
+Added Net: Name=NetC70_1
+Added Pin To Net: NetName=NetD18_1 Pin=D18-1
+Added Pin To Net: NetName=NetD18_1 Pin=U13-1
+Added Net: Name=NetD18_1
+Added Pin To Net: NetName=NetD19_1 Pin=D19-1
+Added Pin To Net: NetName=NetD19_1 Pin=Q28-2
+Added Pin To Net: NetName=NetD19_1 Pin=U13-11
+Added Net: Name=NetD19_1
+Added Pin To Net: NetName=NetD22_1 Pin=D22-1
+Added Pin To Net: NetName=NetD22_1 Pin=U13-6
+Added Net: Name=NetD22_1
+Added Pin To Net: NetName=NetD24_2 Pin=D24-2
+Added Pin To Net: NetName=NetD24_2 Pin=HD14-1
+Added Net: Name=NetD24_2
+Added Pin To Net: NetName=NetD24_3 Pin=D24-3
+Added Pin To Net: NetName=NetD24_3 Pin=F4-2
+Added Pin To Net: NetName=NetD24_3 Pin=F4-2
+Added Net: Name=NetD24_3
+Added Pin To Net: NetName=NetDZ2_2 Pin=DZ2-2
+Added Pin To Net: NetName=NetDZ2_2 Pin=Q28-1
+Added Pin To Net: NetName=NetDZ2_2 Pin=R75-1
+Added Pin To Net: NetName=NetDZ2_2 Pin=U14-C
+Added Net: Name=NetDZ2_2
+Added Pin To Net: NetName=NetF4_1 Pin=F4-1
+Added Pin To Net: NetName=NetF4_1 Pin=F4-1
+Added Pin To Net: NetName=NetF4_1 Pin=HD14-2
+Added Net: Name=NetF4_1
+Added Pin To Net: NetName=NetIC13_3 Pin=IC13-3
+Added Pin To Net: NetName=NetIC13_3 Pin=R89-1
+Added Pin To Net: NetName=NetIC13_3 Pin=R96-2
+Added Pin To Net: NetName=NetIC13_3 Pin=U14-K
+Added Net: Name=NetIC13_3
+Added Pin To Net: NetName=NetR82_1 Pin=R82-1
+Added Pin To Net: NetName=NetR82_1 Pin=R89-2
+Added Pin To Net: NetName=NetR82_1 Pin=U14-A
+Added Net: Name=NetR82_1
+Added Pin To Net: NetName=NetR88_1 Pin=R88-1
+Added Pin To Net: NetName=NetR88_1 Pin=VR10-3
+Added Net: Name=NetR88_1
+Added Pin To Net: NetName=NetR117_2 Pin=R117-2
+Added Pin To Net: NetName=NetR117_2 Pin=VR10-1
+Added Net: Name=NetR117_2
+Added Member To Class: ClassName=machnguonxung Member=Component C46 47000uF/400V
+Added Member To Class: ClassName=machnguonxung Member=Component C47 222 2KV
+Added Member To Class: ClassName=machnguonxung Member=Component C52 470MF/50V
+Added Member To Class: ClassName=machnguonxung Member=Component C54 104
+Added Member To Class: ClassName=machnguonxung Member=Component C55 472
+Added Member To Class: ClassName=machnguonxung Member=Component C67 104
+Added Member To Class: ClassName=machnguonxung Member=Component C70 CAPACI
+Added Member To Class: ClassName=machnguonxung Member=Component D18 1N4007
+Added Member To Class: ClassName=machnguonxung Member=Component D19 1N4007
+Added Member To Class: ClassName=machnguonxung Member=Component D22 1N4007
+Added Member To Class: ClassName=machnguonxung Member=Component D24 BRIDGE1
+Added Member To Class: ClassName=machnguonxung Member=Component D25 1N4148
+Added Member To Class: ClassName=machnguonxung Member=Component DZ2 12V
+Added Member To Class: ClassName=machnguonxung Member=Component F4 F1A
+Added Member To Class: ClassName=machnguonxung Member=Component HD11 Header 2
+Added Member To Class: ClassName=machnguonxung Member=Component HD14 AC
+Added Member To Class: ClassName=machnguonxung Member=Component IC13 TL431
+Added Member To Class: ClassName=machnguonxung Member=Component Q28 13007
+Added Member To Class: ClassName=machnguonxung Member=Component R68 220k 1W
+Added Member To Class: ClassName=machnguonxung Member=Component R69 68k 1W
+Added Member To Class: ClassName=machnguonxung Member=Component R75 150 1W
+Added Member To Class: ClassName=machnguonxung Member=Component R82 2k2
+Added Member To Class: ClassName=machnguonxung Member=Component R88 10k
+Added Member To Class: ClassName=machnguonxung Member=Component R89 10k
+Added Member To Class: ClassName=machnguonxung Member=Component R96 1k2
+Added Member To Class: ClassName=machnguonxung Member=Component R115 1k
+Added Member To Class: ClassName=machnguonxung Member=Component R117 1k5
+Added Member To Class: ClassName=machnguonxung Member=Component U13 Tranf13
+Added Member To Class: ClassName=machnguonxung Member=Component U14 OPTO
+Added Member To Class: ClassName=machnguonxung Member=Component VR10 2K
+Added Room: Name=machnguonxung
